@@ -1,0 +1,32 @@
+*{
+		padding: 5px;
+		margin: 4px;
+		color: #e41717;
+	}
+
+.container {
+		width: 224px;
+		/* size: 99px; */
+		margin-block-start: auto;
+		}
+.head{
+	border: 1px solid #161616;
+
+}
+body{background:url(../IMG/bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.login-section{
+	background-color: #2e2e2e9e;
+}
+
+.login-section img{
+}
+
+.login-section h2{
+}
+.form-control{}
+.btn{}
+.btn1{}
+.
